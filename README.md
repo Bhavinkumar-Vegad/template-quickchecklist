@@ -3,10 +3,11 @@
 ## Steps:
   * [ ] 1. Fork this repository.
   * [ ] 2. Rename the forked repository.
-  * [ ] 2. Use `quickchecklist-{nameofyourchecklist}*.md` to write your first checklist.
-  * [ ] 3. Now add your quickchecklist with required formate.
-  * [ ] 4. Go to [Submit My Quickchecklist] on quickchecklist.info and send us pre-define email. 
-  * [ ] 5. Our team will review it within 1-2 days and your quickcheclist will be available for all.
+  * [ ] 3. Use `quickchecklist-{nameofyourchecklist}*.md` to write your first checklist.
+  * [ ] 4. Now add your quickchecklist with required formate.
+  * [ ] 5. Go to this link and submit the quickchecklick. 
+  
+  Our team will review it within 1-2 days and your quickcheclist will be available for all.
   
  ---------------------------------
  
